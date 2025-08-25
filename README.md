@@ -64,8 +64,20 @@ The goal is to identify business insights and provide actionable recommendations
 ┣ 📓 notebook.ipynb # Full analysis & code
 ┣ 📄 README.md # Project summary (this file)
 ┗ 📄 requirements.txt # (Optional) dependencies to run notebook
+
 ---
 
+## 🚀 How to Run
+1. Clone the repository  
+   ```bash
+   git clone [https://github.com/ntllinhh/python_uber_eda.git]
+
+2. Install dependencies
+   pip install -r requirements.txt
+
+3. Open Jupyter Notebook and run all cells
+
+---
 ✨ **Author**
 Linh Nguyen – Data Analyst | Skilled in Python, SQL, Power BI
 
