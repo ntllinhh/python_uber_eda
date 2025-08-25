@@ -1,5 +1,5 @@
 # Uber Data Analysis 🚖📊
-!(uber-logo.jpg)
+![Uber Logo](uber-logo.jpg)
 
 ## 📌 Project Overview
 This project explores ride-hailing platform data to uncover key patterns in booking behaviour, cancellations, ratings, payments, and demand trends.  
